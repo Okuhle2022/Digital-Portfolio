@@ -8,7 +8,7 @@ The Career Development course was straightfoward and helped me quickly graps the
 
 ## Skills and Interest 
 
-[Evidence](Skill.png)
+! [Evidence](Skill.png)
 **Reflection:** As part of the Skills and Interest course, I participated in a session that examined my values,interest, and skills which are essential components that influence both proffessional and personal growth. I was given the definitions of each. Values are ideas ad principles that direct my decisions, and Interest are the pursuits I find enjoyable or passionate about, then Skills are the abilities I have acquired through education and experience. I discovered from the guided questions that transferable skills, like teamwork, communication and problem-solving are crucial for long term sucess because they can be used in a variety of proffessions and sectors. I also considete how my personal values which are honesty and service to others have an important influence on my proffessional objectives. These values guide the way I approach my career, especially in the field of ICT and technical support, where trust, integrity, confidentiality and a commitiment to helping clients are essential. In keeping with these values, I hope to establish solid moral bonds with clients, cooworkers and offer dependable, person centered assistance that supports my objective of making positive contributions to network and communication system in work settings.
 
 ## Personality Assesment
