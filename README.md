@@ -1,12 +1,11 @@
 # Okuhle Salelo - Digital Portifolio
  - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology.This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
 
-                              - Career Development
+                              - The Picture above is  evidence for carrer development course completion
+## Career Development
+![.](P.png)
 
-
-![Evidence]
-<img align="left" width="100"height="100"src="Career.png">
-
+      >The Picture above is  evidence for carrer development course completion
 The Career Development course was straightfoward and helped me quickly graps the key concept of carrer planning, I was presented with the challenge of concept understanding and applying goal-setting and career planning as part of the module which was aimed at improving career readiness. My task was to learn how career counselling can effectively direct personal and proffessional growth by guideing individulas in the process of setting clear goals and making sound decisions about their future. Accordingly, I delved into the course materials deeply,  which contain the intention of goal setting, the results of carrer counselling, and methods of career plan development. I reflected over my own carrer dreams, defined clear, measurable objectives and set up the steps to reach the goals. I also noticed the importance of plan adjustment following the changes in the environment and the ability to be such a go getter to find learning opportunities. As a cosenquence, I got to know my carrer direction and the ways I need to go through confidently. I am more motivated now and I am willing and prepared to manage my career growth. As a netwroking student i did a research motivated by the course and I discovered that a common way used by proffessionals is to obtain IT certificates from big plaforms such as Cisco, CompTia, Oracle, and CISSP.
 
 ## Skills and Interest 
