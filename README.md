@@ -1,6 +1,17 @@
 # Okuhle Salelo - Digital Portifolio
  - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology.This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
 
+
+ ### This Digital portfolio includes:
+  - - Career Development ! 📚👩‍💻 🌱
+    - Skills and Interests! 💻🖱️
+    - Personality Asssesment!💬🔍
+    - Creeating a CV! 📃🖋️
+    - Bussiness Communication 🗨️📧🗣️
+    - Interview Skills 👨‍💼🔰
+    - Professional Networking! 🤝🌐
+    - Workplace Etiquette! 🏢💼👩‍💻
+                        
                               - The Picture above is  evidence for carrer development course completion
 ## Career Development
 ![.](P.png)
@@ -17,6 +28,7 @@ The Career Development course was straightfoward and helped me quickly graps the
 ## Personality Assesment
 
 ![Evidence](P.png)
+
 **Reflection:** As part of the Personality Assesment course, I took a look at the way individual personality traits can effect career choices and employment satisfaction. The principal goal of personality and career  matching is to associate  one's characteristics, inclinations, and working style with the jobs that most fit them, consequently resulting in higher motivation and performance. During the course, I was taught  about some personality types like Realistic, which comes out as out as a very common one related with hands-on, practical careers like engineering or technical fileds.I also gained the fact that the Artistic personality type is cooperative with creating jobs which emphasize self expression, such as design, writing or the arts. Through certain questions that were asked in the course, It was clear that some of those creative, data-driven and deductive individuals who prefer working with data, facts, and ideas in a systematic and analytical way typically relate to the investigative personality type. I also found out that a person whise code preference is mostly a Conventional will find it easier to get very competent in structured careers like system analysis or accounting, and data management. Through this period of self reflection, I was able to understand the influence of my own personality traits on my carrer path better, and this has pushed me to think about the best career options that fit my personal skills ans interests.
 
 ## Create a CV 
