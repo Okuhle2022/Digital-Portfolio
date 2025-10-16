@@ -1,7 +1,7 @@
 # Okuhle Salelo - Digital Portifolio
-Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology.This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
+ - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology.This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
 
-##Career Development
+                              - Career Development
 
 
 ![Evidence]
@@ -17,7 +17,7 @@ The Career Development course was straightfoward and helped me quickly graps the
 ![Evidence](P.png)
 **Reflection:** As part of the Personality Assesment course, I took a look at the way individual personality traits can effect career choices and employment satisfaction. The principal goal of personality and career  matching is to associate  one's characteristics, inclinations, and working style with the jobs that most fit them, consequently resulting in higher motivation and performance. During the course, I was taught  about some personality types like Realistic, which comes out as out as a very common one related with hands-on, practical careers like engineering or technical fileds.I also gained the fact that the Artistic personality type is cooperative with creating jobs which emphasize self expression, such as design, writing or the arts. Through certain questions that were asked in the course, It was clear that some of those creative, data-driven and deductive individuals who prefer working with data, facts, and ideas in a systematic and analytical way typically relate to the investigative personality type. I also found out that a person whise code preference is mostly a Conventional will find it easier to get very competent in structured careers like system analysis or accounting, and data management. Through this period of self reflection, I was able to understand the influence of my own personality traits on my carrer path better, and this has pushed me to think about the best career options that fit my personal skills ans interests.
 
-## Create a CV
+## Create a CV 
 
 As part of the Create a CV course, I was required to write a polished resume. My goal was to create an engending,well organized resume that sucessfully showcased my training, abilities, and experiences while also meeting the requirements of possible employers. I did this by following the CV writing instructions that were taught in the course.I added optinal sections,like contact details, education, and work history. I used powerful action verbs, paid great attention to formatting, and wrote straightfoward descriptions. I carefully checked the document for errors and ensuring the structure and tone where appropriate for the IT networking industry. As a result of the content covered in the **Create a CV** course i was able to create a CV which makes me seem like an outstanding and competitive applicant. Knowing that my resume communicated my skills and abilities has given me greater confidence when i apply for interships and jobs. The course has also instructed that a good practise is to have two references.
 ![Evidence](Create.png)
@@ -29,3 +29,16 @@ Additional,my devotion to learning and gaining new knowledge has been confirmed 
 The inclusion of both the Original word ducument and converted to PDF version, when i was converting my CV for sumission, I ensured the formating remained consistent and proffessional, reflecting my comitment and quality.
 ![Evidence](PCV.png)
 ![Evidence](vv.png)
+
+
+ ## Business Communication
+
+As part of the **Business Communication** course, I was given an online activity which served as an assessment of my knowlwdge regarding communication principles in a proffessional environment. The primary objectives were to explore the reasons for, and the significant of, effective business communication, identify different means of communication, and also, demonstrate the coerrect use of etiquette in various situations. To do this I answered a series of questions which touched on verbal and non-verbal communication, correct email tone, and professional behavior in virtual meetings. I considered each question diligently, thinking about how the chosen tone, level of formality, and manners used affected the professionalism.
+
+For example, I accurately recognized the instances of non-verbal communication and the business email tone but realized that i neede to strengthen my knowledge of formal language usage in business communication. Therefore, I obtained an overall score of 80%, which indicates that i have a good understanding of the main concepts and at the same time, identifies the points where i need to deepen my knowldge. Through this exercise, I realied that effective communication means not only what is said but also the manner in which it is expressed. Additionally, it confirmed the indispensability of proffessionalism and clarity in every interaction taking place in the workplace.
+
+
+## Interview Skills
+One of the activities in the **Interview Skills** course was to learn and apply the key concepts that would make the candidate a sucessful interviewee. Basically, this job was about me going through real-world scenerio roles and figuring out what would be my best reactions to common interview questions in a confident and proffectional manner.
+
+Firstly, I went through the reasons behind interviews and why it is very important to get to know the company before an interview, and also found out the **CAR**( Content,Action, Result) formula as one of the most used 
