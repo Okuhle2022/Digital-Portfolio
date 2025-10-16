@@ -43,6 +43,13 @@ One of the activities in the **Interview Skills** course was to learn and apply 
 
 Firstly, I went through the reasons behind interviews and why it is very important to get to know the company before an interview, and also found out the **CAR**( Content,Action, Result) formula as one of the most used to structure effective answers. By using the methosa given, i finished the quiz with a perfect score, which is a clear indication of my through comprehension of the principles of a job interview. This workshop was a great confidence booster for me as i learned how to express my ideas clearly, demonstrate my strngths, and talk about my weeknesses in a frindly way. Now , i am convinced that i can handle the next interview with the right mix of professionalism, being reue to my self, and being well prepared.
 
+## Mock intwerview
+## Proffessional Networking
 
+While i was taking the  **Professional Networking** course, one of my assignments was to figure out how important it is to develop and keep up professional relationships that will help my carrer to grow and open up new opportunities. The objective of the exercise was to learn how to establish significant relationships, to be able to talk effectively in professional environments, and to know how to behave correclty when networking in different places.
 
+I examined during the lessin the reasons for professional networking, what is meant by a networking event, and which ways of behaivior to avoid while meeting new professionals. Iwas also informed about the golden networking rule that focuses on offering something before expecting anything in return and the significance of being the one to make first move in establishing a network.
+I had the chance to put in practise these networking principles by going through the content, thinking about how i communicate, and then doing the quiz. In this way,  I got a score of **100%* which is an indicator of my proficiency in using networking for the growth of my proffessional relationships. I can say that this exercise made me aware of the fact tha successful networking is not just about using it as a ladder for a carrer progress. 
+
+I am now more able to attend networking events without hesitation, to present mystelf in a proffectional manner, and to be able to keep in touch with people with whom I share the same ICT carrer goals and thus create meaningful relationships.
 
