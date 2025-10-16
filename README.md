@@ -53,3 +53,10 @@ I had the chance to put in practise these networking principles by going through
 
 I am now more able to attend networking events without hesitation, to present mystelf in a proffectional manner, and to be able to keep in touch with people with whom I share the same ICT carrer goals and thus create meaningful relationships.
 
+## Workplace Etiquette
+As part of the ** Workplace etiquette** cource, I have to learn to keep professionalism, respect, and proper behavior in the work environment. The target of this assignment was to acquire appropriate work conduct, communication patternes, and company values that lead to a pleasant and efficient atmosphere.
+
+In the sseion, I was introduced to the main ideas of managing confidential information in a responsible manner, keeping proffetional communication via email, and realizing the importance of being on time for meetings. In addition, I was informed about the proper methods of using pesonal devices during wotk hours and the right way to ask for time off or an early leave for personal reasons. All these ideas emplasized the significance of professionalism, self-desciplene, and respect for both collegues and workplace rules.
+
+By the prident implementation f the concepts delivered in the module i was able to attain a perfect score of **100%** on the assesment, this demonstrating a thorough understanding of workplace ethics and behavior expectations.
+This experience helped me realize more deply how proffessionalism and good manners have a great impact on one's image eqquiped to show out these good traits namely,** trustworthiness, repect,and honesty**, in the worls of wprk , which are very important characters in the IT sector.
