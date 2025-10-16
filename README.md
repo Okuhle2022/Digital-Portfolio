@@ -41,4 +41,8 @@ For example, I accurately recognized the instances of non-verbal communication a
 ## Interview Skills
 One of the activities in the **Interview Skills** course was to learn and apply the key concepts that would make the candidate a sucessful interviewee. Basically, this job was about me going through real-world scenerio roles and figuring out what would be my best reactions to common interview questions in a confident and proffectional manner.
 
-Firstly, I went through the reasons behind interviews and why it is very important to get to know the company before an interview, and also found out the **CAR**( Content,Action, Result) formula as one of the most used 
+Firstly, I went through the reasons behind interviews and why it is very important to get to know the company before an interview, and also found out the **CAR**( Content,Action, Result) formula as one of the most used to structure effective answers. By using the methosa given, i finished the quiz with a perfect score, which is a clear indication of my through comprehension of the principles of a job interview. This workshop was a great confidence booster for me as i learned how to express my ideas clearly, demonstrate my strngths, and talk about my weeknesses in a frindly way. Now , i am convinced that i can handle the next interview with the right mix of professionalism, being reue to my self, and being well prepared.
+
+
+
+
