@@ -47,7 +47,7 @@ The inclusion of both the Original word ducument and converted to PDF version, w
 >Please click [HERE](WordCV.docx) to see my cv 📃
 
  ## Business Communication
-![.](BC.png)
+![.](BCom.png)
 As part of the **Business Communication** course, I was given an online activity which served as an assessment of my knowlwdge regarding communication principles in a proffessional environment. The primary objectives were to explore the reasons for, and the significant of, effective business communication, identify different means of communication, and also, demonstrate the coerrect use of etiquette in various situations. To do this I answered a series of questions which touched on verbal and non-verbal communication, correct email tone, and professional behavior in virtual meetings. I considered each question diligently, thinking about how the chosen tone, level of formality, and manners used affected the professionalism.
 
 For example, I accurately recognized the instances of non-verbal communication and the business email tone but realized that i neede to strengthen my knowledge of formal language usage in business communication. Therefore, I obtained an overall score of 80%, which indicates that i have a good understanding of the main concepts and at the same time, identifies the points where i need to deepen my knowldge. Through this exercise, I realied that effective communication means not only what is said but also the manner in which it is expressed. Additionally, it confirmed the indispensability of proffessionalism and clarity in every interaction taking place in the workplace.
