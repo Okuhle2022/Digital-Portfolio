@@ -13,7 +13,7 @@
                         
                               - The Picture above is  evidence for carrer development course completion
 ## Career Development
-![.](P.png)
+![.](Career.png)
 
       >The Picture above is  evidence for carrer development course completion
 The Career Development course was straightfoward and helped me quickly graps the key concept of carrer planning, I was presented with the challenge of concept understanding and applying goal-setting and career planning as part of the module which was aimed at improving career readiness. My task was to learn how career counselling can effectively direct personal and proffessional growth by guideing individulas in the process of setting clear goals and making sound decisions about their future. Accordingly, I delved into the course materials deeply,  which contain the intention of goal setting, the results of carrer counselling, and methods of career plan development. I reflected over my own carrer dreams, defined clear, measurable objectives and set up the steps to reach the goals. I also noticed the importance of plan adjustment following the changes in the environment and the ability to be such a go getter to find learning opportunities. As a cosenquence, I got to know my carrer direction and the ways I need to go through confidently. I am more motivated now and I am willing and prepared to manage my career growth. As a netwroking student i did a research motivated by the course and I discovered that a common way used by proffessionals is to obtain IT certificates from big plaforms such as Cisco, CompTia, Oracle, and CISSP.
@@ -51,6 +51,8 @@ For example, I accurately recognized the instances of non-verbal communication a
 
 
 ## Interview Skills
+   ![evi:](IS.png)
+                                                                
 One of the activities in the **Interview Skills** course was to learn and apply the key concepts that would make the candidate a sucessful interviewee. Basically, this job was about me going through real-world scenerio roles and figuring out what would be my best reactions to common interview questions in a confident and proffectional manner.
 
 Firstly, I went through the reasons behind interviews and why it is very important to get to know the company before an interview, and also found out the **CAR**( Content,Action, Result) formula as one of the most used to structure effective answers. By using the methosa given, i finished the quiz with a perfect score, which is a clear indication of my through comprehension of the principles of a job interview. This workshop was a great confidence booster for me as i learned how to express my ideas clearly, demonstrate my strngths, and talk about my weeknesses in a frindly way. Now , i am convinced that i can handle the next interview with the right mix of professionalism, being reue to my self, and being well prepared.
@@ -65,6 +67,10 @@ I had the chance to put in practise these networking principles by going through
 
 I am now more able to attend networking events without hesitation, to present mystelf in a proffectional manner, and to be able to keep in touch with people with whom I share the same ICT carrer goals and thus create meaningful relationships.
 
+>Below is the Evidence for Proffessional Networking
+
+  ![h](ProfessionalNetworking.png)
+
 ## Workplace Etiquette
 As part of the **Workplace etiquette** course, I have to learn to keep professionalism, respect, and proper behavior in the work environment. The target of this assignment was to acquire appropriate work conduct, communication patternes, and company values that lead to a pleasant and efficient atmosphere.
 
@@ -72,3 +78,7 @@ In the sseion, I was introduced to the main ideas of managing confidential infor
 
 By the prident implementation f the concepts delivered in the module i was able to attain a perfect score of **100%** on the assesment, this demonstrating a thorough understanding of workplace ethics and behavior expectations.
 This experience helped me realize more deply how proffessionalism and good manners have a great impact on one's image eqquiped to show out these good traits namely,** trustworthiness, repect,and honesty**, in the worls of wprk , which are very important characters in the IT sector.
+
+> Below is the evidence
+
+![here](WE.png)
