@@ -1,8 +1,8 @@
 # Okuhle Salelo - Digital Portifolio
- - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology.This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
+ - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology. This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
 
  ### This Digital portfolio includes:
-  - - Career Development  📚👩‍💻 🌱
+   -- Career Development  📚👩‍💻 🌱
     - Skills and Interests 💻🖱️
     - Personality Asssesment💬🔍
     - Creeating a CV! 📃🖋️
@@ -11,7 +11,7 @@
     - Professional Networking 🤝🌐
     - Workplace Etiquette 🏢💼👩‍💻
                         
-                              - The Picture above is  evidence for carrer development course completion
+                              
 ## Career Development
 ![.](Career.png)
 
@@ -69,7 +69,7 @@ I am now more able to attend networking events without hesitation, to present my
 
 >Below is the Evidence for Proffessional Networking
 
-  ![h](ProfessionalNetworking.png)
+  ![h](ProfessionalNetworkingEv.png)
 
 ## Workplace Etiquette
 As part of the **Workplace etiquette** course, I have to learn to keep professionalism, respect, and proper behavior in the work environment. The target of this assignment was to acquire appropriate work conduct, communication patternes, and company values that lead to a pleasant and efficient atmosphere.
