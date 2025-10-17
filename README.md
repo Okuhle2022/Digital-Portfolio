@@ -71,7 +71,9 @@ One of the activities in the **Interview Skills** course was to learn and apply 
 Firstly, I went through the reasons behind interviews and why it is very important to get to know the company before an interview, and also found out the **CAR**( Content,Action, Result) formula as one of the most used to structure effective answers. By using the methosa given, i finished the quiz with a perfect score, which is a clear indication of my through comprehension of the principles of a job interview. This workshop was a great confidence booster for me as i learned how to express my ideas clearly, demonstrate my strngths, and talk about my weeknesses in a frindly way. Now , i am convinced that i can handle the next interview with the right mix of professionalism, being reue to my self, and being well prepared.
 
 ## Mock interview
-## Proffessional Networking
+
+ **Reflection**: As part of the interview preparation module, I participated in a mock interview where I was required to record and submit a video of myself responding to common interview questions.The main objective of this exercise was to practise my communication, presentation, and critical thinking skills in a simulated professional setting.
+ ## Proffessional Networking
 
 While i was taking the  **Professional Networking** course, one of my assignments was to figure out how important it is to develop and keep up professional relationships that will help my carrer to grow and open up new opportunities. The objective of the exercise was to learn how to establish significant relationships, to be able to talk effectively in professional environments, and to know how to behave correclty when networking in different places.
 
