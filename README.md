@@ -2,6 +2,7 @@
  - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology. This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
 
  ### This Digital portfolio includes:
+  -- 
    --Career Development  📚👩‍💻 🌱
     - Skills and Interests 💻🖱️
     - Personality Asssesment💬🔍
@@ -43,7 +44,7 @@ The inclusion of both the Original word ducument and converted to PDF version, w
 ![Evidence](vv.png)
 
 >[!Important]
->Please click [HERE] to see my cv 📃
+>Please click [HERE](WordCV.docx) to see my cv 📃
 
  ## Business Communication
 ![.](BC.png)
