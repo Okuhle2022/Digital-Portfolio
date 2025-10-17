@@ -1,5 +1,6 @@
 # Okuhle Salelo - Digital Portifolio
- - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology. This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
+
+ - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology. This portfolio presents a comprehensive collection of my career development activities, technical evidence, and personal growth experiences, supported by authentic evidence and Star-based refections. Each section in this portfolio is aligned with the Work Intergrated Learning (WIL) preparation outcomes and demonstrates the knowledge and skills I have developed throughout the program.
 
    ### This Digital portfolio includes:
   
