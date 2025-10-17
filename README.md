@@ -40,9 +40,10 @@ The Career Development course was straightfoward and helped me quickly graps the
 And as stated in the CV I am currently an intern at BankSeta in the support team, I am developing my problem-solving, collaborative, and proffessional communication skills in the intership.
 Additional,my devotion to learning and gaining new knowledge has been confirmed by Google IT Suport Professional Certificate, UX Design training, and Ethical Hacking certification from LinkedIn. These courses open new horizons in my understanding of IT support,userexperience principles, and cybersecurity,enabling me to be in line with technology development in an effecient manner.
 The inclusion of both the Original word ducument and converted to PDF version, when i was converting my CV for sumission, I ensured the formating remained consistent and proffessional, reflecting my comitment and quality.
-![Evidence](PCV.png)
 ![Evidence](vv.png)
 
+>[!Important]
+>Please click [HERE] to see my cv 📃
 
  ## Business Communication
 ![.](BC.png)
