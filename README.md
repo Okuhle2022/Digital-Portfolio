@@ -72,7 +72,12 @@ Firstly, I went through the reasons behind interviews and why it is very importa
 
 ## Mock interview
 
- **Reflection**: As part of the interview preparation module, I participated in a mock interview where I was required to record and submit a video of myself responding to common interview questions.The main objective of this exercise was to practise my communication, presentation, and critical thinking skills in a simulated professional setting.
+ **Reflection**: As part of the interview preparation module, I participated in a mock interview where I was required to record and submit a video of myself responding to common interview questions.The main objective of this exercise was to practise my communication, presentation, and critical thinking skills in a simulated professional setting. Recording the video also helped me identify areas of improvement, such as maintaining better eye contact and minimizing filler words. Through this activity, I gained valuable experince in presenting myself proffessionally and answering questions with clarity anf confidence.
+
+This reflection helped me recognize how continous practice and self-assesment can significantly improve my real lifr interview perfomance and readiness for future job opportuities.
+
+
+ 
  ## Proffessional Networking
 
 While i was taking the  **Professional Networking** course, one of my assignments was to figure out how important it is to develop and keep up professional relationships that will help my carrer to grow and open up new opportunities. The objective of the exercise was to learn how to establish significant relationships, to be able to talk effectively in professional environments, and to know how to behave correclty when networking in different places.
