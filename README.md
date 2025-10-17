@@ -2,15 +2,16 @@
  - Hey,welcome to my digital portfolio. I am a passionate ICT: Communication Networking student at Cape Pensula University of Technology. This portfolio presents a collection of my career development activities, technical evidence, and personal growth experiences, with real evidence and Star-based refection.  And each section on this portfolio is aligned with the WIL preparation outcomes and showcases the knowledge and skills I have gained.
 
  ### This Digital portfolio includes:
-   -- Career Development  📚👩‍💻 🌱
+   --Career Development  📚👩‍💻 🌱
     - Skills and Interests 💻🖱️
     - Personality Asssesment💬🔍
-    - Creeating a CV! 📃🖋️
+    - Creeating a CV 📃🖋️
     - Bussiness Communication 🗨️📧🗣️
     - Interview Skills 👨‍💼🔰
     - Professional Networking 🤝🌐
     - Workplace Etiquette 🏢💼👩‍💻
-                        
+    
+                       
                               
 ## Career Development
 ![.](Career.png)
@@ -67,9 +68,11 @@ I had the chance to put in practise these networking principles by going through
 
 I am now more able to attend networking events without hesitation, to present mystelf in a proffectional manner, and to be able to keep in touch with people with whom I share the same ICT carrer goals and thus create meaningful relationships.
 
->Below is the Evidence for Proffessional Networking
 
   ![h](ProfessionalNetworkingEv.png)
+
+ >Above is the Evidence for Proffessional Networking
+
 
 ## Workplace Etiquette
 As part of the **Workplace etiquette** course, I have to learn to keep professionalism, respect, and proper behavior in the work environment. The target of this assignment was to acquire appropriate work conduct, communication patternes, and company values that lead to a pleasant and efficient atmosphere.
