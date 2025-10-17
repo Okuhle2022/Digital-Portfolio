@@ -77,6 +77,11 @@ Firstly, I went through the reasons behind interviews and why it is very importa
 This reflection helped me recognize how continous practice and self-assesment can significantly improve my real lifr interview perfomance and readiness for future job opportuities.
 
 
+> 📝**Note:**
+> This video below is my submission for the *Mock Interview* activity.
+> 
+>  📹 [Watch the Mock Interview Video](vid.mp4)
+
  
  ## Proffessional Networking
 
